@@ -6,16 +6,23 @@
       </v-container>
     </v-content>
     <v-footer :fixed="fixed" app>
-      <span>Lunchvote &copy; v2.0 by Jan Sramek - 2019</span>
+      <span>Lunchvote &copy; {{ version }} by Jan Sramek - 2019</span>
     </v-footer>
   </v-app>
 </template>
 
 <script>
+import pkg from '@/package'
+
 export default {
   data() {
     return {
       fixed: false
+    }
+  },
+  computed: {
+    version: () => {
+      return pkg.version
     }
   }
 }
