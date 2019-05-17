@@ -30,7 +30,8 @@ export default {
   name: 'Restaurant',
   props: {
     id: { type: String, default: '' },
-    title: { type: String, default: '' }
+    title: { type: String, default: '' },
+    link: { type: String, default: '' }
   },
   computed: {
     ...mapGetters({ menus: 'menus/getMenus' })
