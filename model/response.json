@@ -1,0 +1,57 @@
+{
+  "daily_menus": [
+    {
+      "daily_menu": {
+        "daily_menu_id": "20384971",
+        "start_date": "2019-05-14 00:00:00",
+        "end_date": "2019-05-14 23:59:59",
+        "name": "",
+        "dishes": [
+          {
+            "dish": {
+              "dish_id": "692230796",
+              "name": "I. Grilované vepřové medailonky/panenka/ s houbovou omáčkou se smetanou/žampiony, lišky/ ",
+              "price": "158 Kč"
+            }
+          },
+          {
+            "dish": {
+              "dish_id": "692230797",
+              "name": "hrášek s karotkou na másle, pečená rýže basmati",
+              "price": ""
+            }
+          },
+          {
+            "dish": {
+              "dish_id": "692230798",
+              "name": "II. Grilovaný hovězí flank steak, ragú z karotky a chřestu, ",
+              "price": "168 Kč"
+            }
+          },
+          {
+            "dish": {
+              "dish_id": "692230799",
+              "name": "šťouchané brambory s kapustou, omáčka z hrubozrné hořčice a černého piva Staropramen",
+              "price": ""
+            }
+          },
+          {
+            "dish": {
+              "dish_id": "692230800",
+              "name": "III. Pšeničná tortilla s kuřecím masem/farma Rašovice/ sýrem Cheddar a Monterrey Jack,",
+              "price": "148 Kč"
+            }
+          },
+          {
+            "dish": {
+              "dish_id": "692230801",
+              "name": "paprikou, karamelizovanou cibulí, kukuřicí, chilli, hranolky, buffalo omáčka",
+              "price": ""
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "status": "success"
+}

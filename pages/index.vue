@@ -1,9 +1,16 @@
 <template>
-  <div></div>
+  <div>
+    <Restaurant id="16507120" title="Husa" />
+  </div>
 </template>
 
 <script>
-export default {}
+import Restaurant from '@/components/restaurant-menu'
+export default {
+  components: {
+    Restaurant
+  }
+}
 </script>
 
 <style></style>
